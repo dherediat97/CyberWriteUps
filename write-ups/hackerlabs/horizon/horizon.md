@@ -119,4 +119,4 @@
 # ¡Enhorabuena, has conseguido averiguar el misterio(y no has muerto en el intento) de esta misión espacial!
 
 > [!TIP]
-> Nuestros amigos extraterrestres nos dejaron una prueba de fe en un vídeo, no pierdas tiempo y visualízalo, está en `/root`?
+> Nuestros amigos extraterrestres nos dejaron una prueba de fe en un vídeo, no pierdas tiempo y visualízalo, está en `/root`
