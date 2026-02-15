@@ -9,7 +9,7 @@
 | Dificultad     | Principiante   |
 | Fecha          | 12/11/2025     |
 | Tipo           | Forense        |
-| Autor Write-up | dherediat      |
+| Autor | oscaar90      |
 
 ### Credenciales de Acceso:
 - Usuario: auditor
