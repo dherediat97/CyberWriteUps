@@ -22,9 +22,6 @@
 > [!TIP]
 > Michael E. López Alegría nos remarca, que tenemos que firmar el documento.
 
-
-![](/img/hackerlabs/horizon_author.png)
-
 ### Firmemos ahora dicho documento usando LibreOffice Draw. Vale cualquier firma, cuando terminemos sobrescribimos los cambios en el mismo archivo.
 
 ![](/img/hackerlabs/horizon_3.png)
@@ -119,7 +116,7 @@
 # Mision Completed!
 
 ![](https://media1.tenor.com/m/CYnKyiPDAboAAAAC/dog-flying-in-space-station-dog-floating.gif)
-# ¡Enhorabuena, has conseguido averiguar el misterio(y no has muerto en el intento) de esta mision espacial!
+# ¡Enhorabuena, has conseguido averiguar el misterio(y no has muerto en el intento) de esta misión espacial!
 
 > [!TIP]
-> Nuestros amigos extraterrestres nos dejaron un vídeo, corre a verlo en `/root`?
+> Nuestros amigos extraterrestres nos dejaron un vídeo, no pierdas tiempo, está en `/root`?
