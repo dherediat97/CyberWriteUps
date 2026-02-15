@@ -22,7 +22,7 @@
 > [!TIP]
 > Michael E. López Alegría nos remarca, que tenemos que firmar el documento.
 
-### Firmemos ahora dicho documento usando LibreOffice Draw. Vale cualquier firma, cuando terminemos sobrescribimos los cambios en el mismo archivo.
+### Vamos a dibujar una firmilla el documento usando LibreOffice Draw. Vale cualquier firma(linea, punto, texto, etc), cuando terminemos sobrescribimos los cambios en el mismo archivo.
 
 ![](/img/hackerlabs/horizon_3.png)
 
@@ -34,7 +34,7 @@
 
 ![](/img/hackerlabs/horizon_5.png)
 
-### Y mágicamente(o no) ha aparecido una carpeta que se indicó en las `instrucciones.md`. Nos explica que el `.wav` tiene algo oculto, procedamos a la prueba de carbono(es un símil).
+### Y mágicamente(o no) ha aparecido una carpeta que se indicó en las `instrucciones.md`. Nos explica que el `.wav` tiene algo oculto, procedamos a la prueba de carbono(no voy a hacer una prueba de carbono, es un símil, voy a descubrir que tiene escondido este fichero).
 
 ![](/img/hackerlabs/horizon_6.png)
 
@@ -45,13 +45,13 @@
 ![](/img/hackerlabs/horizon_7.png)
 
 > [!TIP]
-> Por defecto el audio esta desactivado, para escuchar las muestras de audio, podemos activarlo en VBox.
+> Por defecto el audio esta desactivado, para escuchar el audio, podemos activarlo en VBox. Aunque no es estrictamente necesario
 
 ### Podemos ver si hay algun archivo oculto, pero no, no hay nada
 ![](/img/hackerlabs/horizon_8.png)
 
 
-### Ya que tenemos acceso a este laboratorio, no es mala idea ver que paquetes tiene o no instalado, en el campo de ocultar datos en wav, hay muchas `tools`, pero las más famosas son:
+### Ya que tenemos acceso a este laboratorio, no es mala idea ver que paquetes tiene o no instalado, en el campo de ocultar datos(estenografía) en wav(o en cualquier otro fichero), hay muchas `tools`, pero las más famosas son:
 - Stegseek
 - Steghide
 
@@ -67,7 +67,7 @@
 > ¡Bingo! Tiene un mensaje oculto, este mensaje corresponde a la respuesta del cuestionario Nº 1.
 
 
-### Antes de nada, vamos a buscar que tiene guardado en los marcadores, que nos compartió el, quizas haya algo escondido....
+### Antes de nada, vamos a buscar que tiene guardado en los marcadores, que nos compartió el, quizás haya algo escondido....
 ![](/img/hackerlabs/horizon_12.png)
 
 
@@ -76,7 +76,7 @@
 ![](/img/hackerlabs/horizon_13.png)
 ![](/img/hackerlabs/horizon_14.png)
 
-### La encontramos, procedemos a navegar a donde nos redirige el nmap
+### La encontramos, procedemos a navegar a `donde nos redirige el nmap`
 
 ![](/img/hackerlabs/horizon_17.png)
 
@@ -84,10 +84,10 @@
 > ¡2º y 3º pregunta del cuestionario descubierta!
 
 
-### Para la siguiente pregunta debemos pensar en la narrativa, sabemos que es el blog de Michael López Alegría, busquemos quién es está persona.
+### Para la siguiente pregunta debemos pensar en la narrativa, sabemos que es el blog de `Michael López Alegría`, busquemos quién es está persona.
 ![](/img/hackerlabs/horizon_18.png)
 
-### Quizás sea algo como su Primer vuelo espacial o algo más personal
+### Quizás sea algo como su primer vuelo espacial o algo más personal
 > [!TIP]
 > ¡4º pregunta del cuestionario acertada! Si así es: era la fecha de nacimiento en formato ddMMYYYY. Pista: El nombre de usuario es el usuario más común desde que existe Internet.
 
@@ -95,13 +95,13 @@
 ![](/img/hackerlabs/horizon_19.png)
 
 
-### Muy interesante, descubrimos la contraseña de root
+### Muy interesante, descubrimos la contraseña de el usuario `root`
 ![](/img/hackerlabs/horizon_20.png)
 
 > [!TIP]
 > ¡5º pregunta del cuestionario acertada! Recuerda: en MAYÚSCULAS.
 
-### Al principio(en `instrucciones.md`) nos decia que habia logs de la ESA, procedemos a buscar algún rastro oculto.
+### Al principio(en `instrucciones.md`) nos decia que habia logs de la `ESA`, procedemos a buscar algún rastro oculto.
 ![](/img/hackerlabs/horizon_21.png)
 ![](/img/hackerlabs/horizon_22.png)
 ![](/img/hackerlabs/horizon_23.png)
@@ -113,10 +113,10 @@
 > ¡6º pregunta del cuestionario acertada! 
 
 ![](/img/hackerlabs/horizon_25.png)
-# Mision Completed!
+# Mission Completed!
 
 ![](https://media1.tenor.com/m/CYnKyiPDAboAAAAC/dog-flying-in-space-station-dog-floating.gif)
 # ¡Enhorabuena, has conseguido averiguar el misterio(y no has muerto en el intento) de esta misión espacial!
 
 > [!TIP]
-> Nuestros amigos extraterrestres nos dejaron un vídeo, no pierdas tiempo, está en `/root`?
+> Nuestros amigos extraterrestres nos dejaron una prueba de fe en un vídeo, no pierdas tiempo y visualízalo, está en `/root`?
