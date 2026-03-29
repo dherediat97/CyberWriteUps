@@ -2,6 +2,8 @@
 
 | Nombre         | Dificultad    |
 | -------------  | ------------- |
+| [Horizon](horizon/horizon.md)       | Principiante  |
+| [Star Wars I](star_wars/star_wars.md)       | Profesional  |
 | [THLPwn](thlpwn/thlpwn.md)         | Principiante  |
 | [Topo DNS](topo_dns/topo_dns.md)       | Principiante  |
 | [Aceituno](aceituno/aceituno.md)       | Principiante  |
