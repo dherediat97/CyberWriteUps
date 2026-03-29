@@ -1,4 +1,4 @@
-<img src="https://github.com/dherediat97/CyberWriteUps/blob/main/img/hackerlabs/star_wars.png" width="300" height="200">
+<img src="https://github.com/dherediat97/CyberWriteUps/blob/main/img/hackerlabs/star_wars.png" width="600" height="400">
 
 # Resolución del CTF
 
