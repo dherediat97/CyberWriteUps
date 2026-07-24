@@ -51,7 +51,8 @@
 
 ![](images/star_wars_II_10.png)
 
-![tip] Ceros y unos bajando al estilo Matrix, me da a mi que no son simples 1 y 0.
+> [!TIP]
+> Ceros y unos bajando al estilo Matrix, me da a mi que no son simples 1 y 0.
 
 ### Vemos el código fuente, a ver que contiene.
 
@@ -360,7 +361,8 @@ p.interactive()
 ![](images/star_wars_II_67.png)
 
 
-![tip] Extra: continuar fuzzeando sin pasar por el blog ni la web de videovigilancia.
+> [!TIP] 
+> Extra: continuar fuzzeando sin pasar por el blog ni la web de videovigilancia.
 
 
 # ¡Felicidades! ¡La fuerza te acompañó y pudistes acabar este CTF con éxito!
@@ -368,4 +370,5 @@ p.interactive()
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EyNWFzcGM5dHNyMmZicXg1ZXJqd3hxb2dkeWtvc3VsN2U3cWU4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL0ydLDEcARWY0g/giphy.gif)
 
 
-![tip] Te animo, a que la rehagas, que vayas por otro camino, que investigues y encuentres más caminos.
+> [!TIP] 
+> Te animo, a que la rehagas, que vayas por otro camino, que investigues y encuentres más caminos.
