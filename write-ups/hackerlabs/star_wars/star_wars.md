@@ -4,7 +4,7 @@
 
 | Propiedad | Valor |
 |---	|---	|
-| Máquina | Horizon |
+| Máquina | Star Wars |
 | Entorno | OVA Linux      |
 | Dificultad | Profesional   |
 | Fecha | 07/03/2026     |
